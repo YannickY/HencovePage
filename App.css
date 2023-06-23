@@ -1,0 +1,169 @@
+.flex-container {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: nowrap;
+    justify-content: normal;
+    align-items: normal;
+    align-content: normal;
+  }
+  
+  .flex-items:nth-child(1) {
+    display: block;
+    flex-grow: 0;
+    flex-shrink: 1;
+    flex-basis: auto;
+    align-self: auto;
+    order: 0;
+  }
+  
+  .flex-items:nth-child(2) {
+    display: block;
+    flex-grow: 0;
+    flex-shrink: 1;
+    flex-basis: auto;
+    align-self: auto;
+    order: 0;
+  }
+  
+  .flex-items:nth-child(3) {
+    display: block;
+    flex-grow: 0;
+    flex-shrink: 1;
+    flex-basis: auto;
+    align-self: auto;
+    order: 0;
+  }
+
+  #header {
+    height: 550px;
+    background-color: rgba(89, 131, 252, 1);
+background-image: linear-gradient(90deg, rgba(89, 131, 252, 1) 0%, rgba(142, 150, 170, 1) 100%);
+
+    background-repeat: no-repeat;
+    background-size: 100%;
+    
+  }
+
+  nav {
+    
+    padding: 11px;
+
+}
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    color: white;
+}
+
+
+
+.nav-left {
+    float: left;
+}
+
+.nav-left ul li {
+    float: left;
+    margin-left: 150px;
+}
+
+.nav-right ul li {
+    float: right;
+}
+
+li {
+    margin: 4px;
+    
+}
+.nav-right {
+    margin-right: 100px;
+
+}
+
+p {
+    margin-top: 200px;
+    margin-left: 165px;
+    color: white;
+    
+
+}
+a:link {
+    color: white;
+    text-decoration: none;
+}
+a:visited {
+    color: white; 
+}
+
+.button1 {
+    margin-left: 550px;
+    height: 50px;
+    color: darkblue;
+}
+
+.flex-items2 {
+   
+      display: inline-block;
+      flex-direction: inline;
+      flex-wrap: wrap;
+      padding-left: 0;
+    }
+  
+    .list2 {
+      list-style: none;
+      display: inline-block;
+      text-align: inline;
+    }
+
+    .flex-container1 {
+        display: flex; 
+        width: auto;
+        justify-content: center;
+        align-items: center;
+        
+
+
+
+        
+ 
+        
+    
+      }
+      
+      .flex-container1 > div {
+        background-color: #f1f1f1;
+        margin: 40px;
+
+
+
+
+        
+       
+        padding: 20px;
+      }
+
+      .mission {
+        width: fit-content;
+        width: auto;
+
+
+
+        color: darkblue;
+      }
+
+      .subscribe {
+        color: darkblue;
+        margin-right: 152px;
+      }
+
+      .flex-items3 {
+        height: 400px;
+        text-align: center;
+        background-color: gray;
+      }
+
+      .bigger1 {
+        font-size: 50px;
+      }
+
