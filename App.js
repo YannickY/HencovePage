@@ -30,11 +30,11 @@ function Header({name}) {
     <div class="nav-right">
         <ul>
         
-        <li className="bigger"><a href="/letschat">Let's Chat</a></li>
-        <li className="bigger"><a href="/blog">Blog</a></li>
-        <li className="bigger"><a href="/you">You</a></li>
-        <li className="bigger"><a href="/ourwork">Our Work</a></li>
-        <li className="bigger"><a href="/us">Us</a></li>
+        <li className="bigger"><a href="/letschat">Example</a></li>
+        <li className="bigger"><a href="/blog">Example1</a></li>
+        <li className="bigger"><a href="/you">Example2</a></li>
+        <li className="bigger"><a href="/ourwork">Example3</a></li>
+        <li className="bigger"><a href="/us">Example4</a></li>
             
 
             
@@ -45,20 +45,20 @@ function Header({name}) {
         </nav>
        
         </header>
-        <p><b>We build brands <br/>We share their stories</b><br/>
-        The name Hencove is inspired by a tranquil harbor in Massachusetts called Hen's Cove.<br/>Every brand is on a journey and we are the proud co-captains with our clients on their voyage. <br/>Based in Watertown, Hencove offers both the personal feel of a boutique shop and the power of a full-service marketing agency.<br/>
-         As a values-based agency, we are guided by a set of core principles that influence how we think, act and work. </p>
+        <p><b>sakdsjlfjlsajfkuada<br/>asdkhsakjdhkjhakhdkhskajd</b><br/>
+        sajdhfuihfuihuisfhuidsysfuihnfuiwdhfuihuishuihfdosoysarysoidoiahdioh<br/>ajsdlkjslkdjisajioeioaseojoisaueyausufsfufvusfuisdfuidsifydsfusdfysyf <br/>dkjhfdlkhkjsdhfakhsdkhaskfjhlkasjflkaslkfnahuisyeiuyuiwyaiuegdkjajskbsdjdkas<br/>
+        jhjsdhfdkjfhjdshfdhjkhfjshkjfhdjkghjkfdhkjghjfgfghfghfgfghjghjsdflusdahuifhihfduhdf</p>
 
-         <button className="button1"><b>Brand Services</b></button>
+         <button className="button1"><b>sahdjkshdkjsyfjdf</b></button>
         </div>
       <div class="flex-items2">
       <div class="flex-container1">
-  <div><p className="mission"><b>A full-service marketing and communications team</b><br/><br/>
-Specializing in healthcare, finance, tech & professional services, and the oddball stuff</p></div>
-  <div><p className="mission"><b>Storytellers for Growing Businesses</b><br/><br/>
-Effective storytelling is a must in today’s business world. Brands of all shapes and sizes are expected to have a finely tuned and carefully developed story. We believe there’s an A.R.T. to good storytelling. The best brand stories are authentic, relevant and thoughtful. Hencove delivers strategic, creative ideas with practical, powerful marketing campaigns and projects.</p></div>
-  <div><p className="mission"><b>Engaging Audiences through Stories</b><br/><br/>
-Hencove exists to help brands find their voice, craft their story and engage audiences. From logos to websites to blogs to social media, we create an array of marketing and communications materials to help brands reach their target markets. We serve as a trusted marketing partner for emerging and growing businesses, particularly in the healthcare and finance industries.</p></div>
+  <div><p className="mission"><b>kjdhjsafhjksahfjkhjksdfggjf</b><br/><br/>
+sdjhkjhfjkdhfjkhsjhfjhjksfhjkdshkjfbdwfiuweyiuyfiuehsdibskjfbdskjjfjdbjfndjfndjisuds</p></div>
+  <div><p className="mission"><b>kjhjhgffdfgsgfsdgfvcdfgsgfsdsgfsgfsgfgfsfsfssfs</b><br/><br/>
+fjhgfghfghfghfghfghfghfghfhffdfdfdfdfdfdfdfdgfdfdfdvgvtyvytvtyvtyvtyvtyvtyvtyvtyvghvyuttttytvtyccfcytctyctcghcytctycytctcctyctyctycttyctyctyctycycvyvuyvbyubybyuybniniuugyucxeerseexxexexeexexerxerzwzwzwe</p></div>
+  <div><p className="mission"><b>tftffgccfcfgxcgfxdxgfxcfgxfgxgfxgfxffx</b><br/><br/>
+ghccvvvbnvnbvbnvghcgfcfgxdxjgyugyuvyvyuvyuvyuvyuvyuvyuvyuvyuvuyvuyvyuvyuvyuvyvvvyyuvuyvyuvyvyvyuvyuvyuvyuvyububybubuyvtycccxtxtxtctycttvuyvyubdfxdxdxgfxfgxfgxfgx</p></div>
 </div>
 
       
@@ -80,7 +80,7 @@ Hencove exists to help brands find their voice, craft their story and engage aud
 export default function App() {
   return (
     <>
-    <Header name={"Hencove"} />
+    <Header name={"insert company name here"} />
 
   
     </>
